@@ -18,3 +18,5 @@ google-search-results
 faiss-cpu
 sentence_transformers
 streamlit
+duckduckgo-search
+yfinance
